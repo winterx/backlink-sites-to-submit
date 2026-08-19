@@ -1,0 +1,18 @@
+schema_version: 1
+name: SAASWALL
+domain: saaswall.co
+submission_url: https://saaswall.co/submit
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: false
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://saaswall.co/submit
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

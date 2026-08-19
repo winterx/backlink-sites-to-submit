@@ -1,0 +1,17 @@
+schema_version: 1
+name: Sick Tools
+domain: sick.tools
+submission_url: https://tally.so/r/wvY09d
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://tally.so/r/wvY09d
+    checked_at: 2026-07-24
+last_verified_at: 2026-07-24

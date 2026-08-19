@@ -1,0 +1,18 @@
+schema_version: 1
+name: Tiny Startups
+domain: tinystartups.co
+submission_url: https://tally.so/r/wMzP8X
+category: product-launch
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://tally.so/r/wMzP8X
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

@@ -1,0 +1,18 @@
+schema_version: 1
+name: SaaS Tools Dir
+domain: saastoolsdir.com
+submission_url: https://saastoolsdir.com/submit
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://saastoolsdir.com/submit
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

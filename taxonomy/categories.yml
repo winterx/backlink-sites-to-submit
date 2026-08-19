@@ -1,0 +1,19 @@
+categories:
+  - id: company-yellow-pages
+    name: Company directory
+    description: General directories of companies and organizations.
+  - id: community
+    name: Community
+    description: Communities that accept member projects or launches.
+  - id: listing-directory
+    name: Listing directory
+    description: Curated directories for products, tools, or websites.
+  - id: media
+    name: Media
+    description: Publications or media properties that accept submissions.
+  - id: product-launch
+    name: Product launch
+    description: Platforms focused on launching and discovering new products.
+  - id: product-review
+    name: Product review
+    description: Sites that accept products for editorial or user review.

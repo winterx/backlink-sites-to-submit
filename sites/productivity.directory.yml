@@ -1,0 +1,17 @@
+schema_version: 1
+name: Productivity Directory
+domain: productivity.directory
+submission_url: https://productivity.directory/
+pricing:
+  type: other
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://productivity.directory/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

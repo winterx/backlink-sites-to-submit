@@ -1,0 +1,17 @@
+schema_version: 1
+name: Easy Save AI
+domain: easysaveai.com
+submission_url: https://easysaveai.com/submit-your-ai-tool/
+pricing:
+  type: pay-once
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://easysaveai.com/submit-your-ai-tool/
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

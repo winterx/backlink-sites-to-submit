@@ -1,0 +1,17 @@
+schema_version: 1
+name: Submission Web Directory
+domain: submissionwebdirectory.com
+submission_url: https://www.submissionwebdirectory.com/submit.php
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.submissionwebdirectory.com/submit.php
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

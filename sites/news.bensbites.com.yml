@@ -1,0 +1,17 @@
+schema_version: 1
+name: Ben's Bites News
+domain: news.bensbites.com
+submission_url: https://news.bensbites.com/submit
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://news.bensbites.com/submit
+    checked_at: 2026-07-13
+last_verified_at: 2026-07-13

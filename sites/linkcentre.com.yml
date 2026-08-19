@@ -1,0 +1,18 @@
+schema_version: 1
+name: Link Centre
+domain: linkcentre.com
+submission_url: https://www.linkcentre.com/get-started/create/
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.linkcentre.com/get-started/create/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

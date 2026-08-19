@@ -1,0 +1,17 @@
+schema_version: 1
+name: Disrupt 500
+domain: disrupt500.com
+submission_url: https://www.disrupt500.com/submit-your-tool/
+pricing:
+  type: pay-once
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://www.disrupt500.com/submit-your-tool/
+    checked_at: 2026-07-05
+last_verified_at: 2026-07-05

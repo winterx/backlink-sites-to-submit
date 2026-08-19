@@ -1,0 +1,18 @@
+schema_version: 1
+name: DesiFounder
+domain: desifounder.com
+submission_url: https://desifounder.com/signup
+category: community
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://desifounder.com/signup
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

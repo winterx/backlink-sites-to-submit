@@ -1,0 +1,18 @@
+schema_version: 1
+name: eBool
+domain: ebool.com
+submission_url: https://www.ebool.com/submit
+category: company-yellow-pages
+pricing:
+  type: pay-once
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.ebool.com/submit
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

@@ -1,0 +1,15 @@
+schema_version: 1
+name: AI tool hunt
+domain: aitoolhunt.com
+submission_url: https://www.aitoolhunt.com/addTool
+pricing:
+  type: pay-once
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://www.aitoolhunt.com/addTool

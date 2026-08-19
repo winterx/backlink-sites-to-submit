@@ -1,0 +1,17 @@
+schema_version: 1
+name: Victrays
+domain: victrays.com
+submission_url: https://victrays.com/submit-tool/
+pricing:
+  type: pay-once
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://victrays.com/submit-tool/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

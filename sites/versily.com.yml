@@ -1,0 +1,18 @@
+schema_version: 1
+name: Versily
+domain: versily.com
+submission_url: https://versily.com/signup
+category: community
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://versily.com/signup
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

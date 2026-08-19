@@ -1,0 +1,18 @@
+schema_version: 1
+name: Submit AI Tools
+domain: submitaitools.org
+submission_url: https://submitaitools.org/
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: auto
+backlink:
+  requirement: required-badge
+  dofollow: unknown
+nsfw_policy: allowed
+status: active
+evidence:
+  - url: https://submitaitools.org/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

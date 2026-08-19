@@ -1,0 +1,22 @@
+schema_version: 1
+name: Pitchwall
+domain: pitchwall.co
+submission_url: https://pitchwall.co/product/submit
+category: product-launch
+tags:
+  - ai
+pricing:
+  type: pay-once
+  amount: 49
+  currency: USD
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://pitchwall.co/product/submit
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

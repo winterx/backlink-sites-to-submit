@@ -1,0 +1,18 @@
+schema_version: 1
+name: Freemium AI
+domain: freemiumai.net
+submission_url: https://freemiumai.net/listings-dashboard/?dashboard=register
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: false
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://freemiumai.net/listings-dashboard/?dashboard=register
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

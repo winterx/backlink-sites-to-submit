@@ -1,0 +1,18 @@
+schema_version: 1
+name: aier.im
+domain: aier.im
+submission_url: https://aier.im/submit
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://aier.im/submit
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

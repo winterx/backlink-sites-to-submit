@@ -1,0 +1,18 @@
+schema_version: 1
+name: ShowMeBestAI
+domain: showmebest.ai
+submission_url: https://showmebest.ai/submit/free-submit
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: auto
+backlink:
+  requirement: required-badge
+  dofollow: unknown
+nsfw_policy: allowed
+status: active
+evidence:
+  - url: https://showmebest.ai/submit/free-submit
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

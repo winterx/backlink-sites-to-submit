@@ -1,0 +1,17 @@
+schema_version: 1
+name: Startup Base
+domain: startupbase.io
+submission_url: https://startupbase.io/submissions/start
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://startupbase.io/submissions/start
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

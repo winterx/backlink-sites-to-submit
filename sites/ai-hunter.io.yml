@@ -1,0 +1,17 @@
+schema_version: 1
+name: AI Tools Hunter
+domain: ai-hunter.io
+submission_url: https://ai-hunter.io/submit-ai-tool/
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://ai-hunter.io/submit-ai-tool/
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

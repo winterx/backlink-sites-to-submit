@@ -1,0 +1,18 @@
+schema_version: 1
+name: AI Tools Lister
+domain: aitoolslister.com
+submission_url: https://aitoolslister.com/login
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: false
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://aitoolslister.com/login
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

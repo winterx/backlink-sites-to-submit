@@ -1,0 +1,18 @@
+schema_version: 1
+name: Twelve Tools
+domain: twelve.tools
+submission_url: https://twelve.tools/submit-your-tool
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: easy
+backlink:
+  requirement: required-badge
+  dofollow: unknown
+nsfw_policy: not-allowed
+status: active
+evidence:
+  - url: https://twelve.tools/submit-your-tool
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

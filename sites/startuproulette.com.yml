@@ -1,0 +1,17 @@
+schema_version: 1
+name: Startup Roulette
+domain: startuproulette.com
+submission_url: https://startuproulette.com/promote-my-startup
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://startuproulette.com/promote-my-startup
+    checked_at: 2026-07-05
+last_verified_at: 2026-07-05

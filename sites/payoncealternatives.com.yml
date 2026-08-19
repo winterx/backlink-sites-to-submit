@@ -1,0 +1,17 @@
+schema_version: 1
+name: Pay Once Alternatives
+domain: payoncealternatives.com
+submission_url: https://payoncealternatives.com/submit
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://payoncealternatives.com/submit
+    checked_at: 2026-07-05
+last_verified_at: 2026-07-05

@@ -1,0 +1,17 @@
+schema_version: 1
+name: Critiqs AI
+domain: critiqs.ai
+submission_url: https://critiqs.ai/submit-new-ai-tool/
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://critiqs.ai/submit-new-ai-tool/
+    checked_at: 2026-07-24
+last_verified_at: 2026-07-24

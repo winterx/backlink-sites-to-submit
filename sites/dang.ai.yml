@@ -1,0 +1,23 @@
+schema_version: 1
+name: Dang AI
+domain: dang.ai
+submission_url: https://dang.ai/
+category: product-launch
+tags:
+  - ai
+pricing:
+  type: pay-once
+  amount: 49
+  currency: USD
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: allowed
+status: active
+notes: 综合填写时间 10分钟。花了钱就有。
+evidence:
+  - url: https://dang.ai/
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

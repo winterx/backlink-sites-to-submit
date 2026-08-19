@@ -1,0 +1,17 @@
+schema_version: 1
+name: Tap4.ai
+domain: tap4.ai
+submission_url: https://tap4.ai/
+pricing:
+  type: other
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://tap4.ai/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

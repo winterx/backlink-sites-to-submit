@@ -1,0 +1,18 @@
+schema_version: 1
+name: CurateClick
+domain: curateclick.com
+submission_url: https://curateclick.com/
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: auto
+backlink:
+  requirement: required-badge
+  dofollow: unknown
+nsfw_policy: not-allowed
+status: active
+evidence:
+  - url: https://curateclick.com/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

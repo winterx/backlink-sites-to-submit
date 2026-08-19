@@ -1,0 +1,17 @@
+schema_version: 1
+name: aiTree
+domain: aitree.io
+submission_url: https://aitree.io/
+pricing:
+  type: other
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://aitree.io/
+    checked_at: 2026-07-31
+last_verified_at: 2026-07-31

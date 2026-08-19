@@ -1,0 +1,18 @@
+schema_version: 1
+name: AiComing
+domain: aicoming.net
+submission_url: https://aicoming.net/sign-up
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: false
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://aicoming.net/sign-up
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

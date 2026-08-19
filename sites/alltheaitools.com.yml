@@ -1,0 +1,17 @@
+schema_version: 1
+name: All The AI Tools
+domain: alltheaitools.com
+submission_url: https://alltheaitools.com/
+pricing:
+  type: other
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://alltheaitools.com/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

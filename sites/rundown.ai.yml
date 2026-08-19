@@ -1,0 +1,17 @@
+schema_version: 1
+name: Supertools
+domain: rundown.ai
+submission_url: https://www.rundown.ai/
+pricing:
+  type: other
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://www.rundown.ai/
+    checked_at: 2026-07-29
+last_verified_at: 2026-07-29

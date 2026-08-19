@@ -1,0 +1,17 @@
+schema_version: 1
+name: AI Tools Arena
+domain: aitoolsarena.com
+submission_url: https://aitoolsarena.com/
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://aitoolsarena.com/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

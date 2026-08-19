@@ -1,0 +1,19 @@
+schema_version: 1
+name: WebsiteHunt
+domain: websitehunt.co
+submission_url: https://www.websitehunt.co/websites/submit/create
+pricing:
+  type: subscribe
+  amount: 20
+  currency: USD
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.websitehunt.co/websites/submit/create
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

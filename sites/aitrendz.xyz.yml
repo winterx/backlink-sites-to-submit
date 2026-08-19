@@ -1,0 +1,17 @@
+schema_version: 1
+name: AI trendz
+domain: aitrendz.xyz
+submission_url: https://aitrendz.xyz/submit-ai-link/
+pricing:
+  type: pay-once
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://aitrendz.xyz/submit-ai-link/
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

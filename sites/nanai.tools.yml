@@ -1,0 +1,17 @@
+schema_version: 1
+name: NaNAI.tools
+domain: nanai.tools
+submission_url: https://nanai.tools/
+pricing:
+  type: other
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://nanai.tools/
+    checked_at: 2026-07-29
+last_verified_at: 2026-07-29

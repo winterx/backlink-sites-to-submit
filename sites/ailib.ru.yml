@@ -1,0 +1,18 @@
+schema_version: 1
+name: AI Lib
+domain: ailib.ru
+submission_url: https://ailib.ru/
+category: listing-directory
+pricing:
+  type: pay-once
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://ailib.ru/
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

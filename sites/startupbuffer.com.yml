@@ -1,0 +1,18 @@
+schema_version: 1
+name: Startup Buffer
+domain: startupbuffer.com
+submission_url: https://startupbuffer.com/site/submit
+category: company-yellow-pages
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://startupbuffer.com/site/submit
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

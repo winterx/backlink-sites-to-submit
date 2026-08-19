@@ -1,0 +1,17 @@
+schema_version: 1
+name: Startup AI Tools
+domain: startupaitools.com
+submission_url: https://www.startupaitools.com/submit-ai-tools/
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.startupaitools.com/submit-ai-tools/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

@@ -1,0 +1,17 @@
+schema_version: 1
+name: DEV Resources
+domain: devresourc.es
+submission_url: https://github.com/marcelscruz/dev-resources
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://github.com/marcelscruz/dev-resources
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

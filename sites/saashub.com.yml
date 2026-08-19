@@ -1,0 +1,18 @@
+schema_version: 1
+name: SaasHub
+domain: saashub.com
+submission_url: https://www.saashub.com/submit
+category: company-yellow-pages
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.saashub.com/submit
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

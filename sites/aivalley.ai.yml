@@ -1,0 +1,15 @@
+schema_version: 1
+name: AI Valley
+domain: aivalley.ai
+submission_url: https://aivalley.ai/submit-tool/
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://aivalley.ai/submit-tool/

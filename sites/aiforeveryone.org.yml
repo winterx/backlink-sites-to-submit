@@ -1,0 +1,20 @@
+schema_version: 1
+name: AI For Everyone
+domain: aiforeveryone.org
+submission_url: https://submittool.ai/listing/aiforeveryone
+category: listing-directory
+pricing:
+  type: pay-once
+  amount: 80
+  currency: USD
+submission:
+  complexity: auto
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://submittool.ai/listing/aiforeveryone
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

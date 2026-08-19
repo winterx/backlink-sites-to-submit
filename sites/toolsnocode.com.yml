@@ -1,0 +1,17 @@
+schema_version: 1
+name: Tools Nocode
+domain: toolsnocode.com
+submission_url: https://www.toolsnocode.com/ai#form1
+pricing:
+  type: pay-once
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.toolsnocode.com/ai#form1
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

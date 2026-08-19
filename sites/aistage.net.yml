@@ -1,0 +1,20 @@
+schema_version: 1
+name: AIStage
+domain: aistage.net
+submission_url: https://aistage.net/
+category: listing-directory
+pricing:
+  type: pay-once
+  amount: 9.9
+  currency: USD
+submission:
+  complexity: auto
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: not-allowed
+status: active
+evidence:
+  - url: https://aistage.net/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

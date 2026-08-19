@@ -1,0 +1,17 @@
+schema_version: 1
+name: Orbic AI
+domain: orbic.ai
+submission_url: https://orbic.ai/login?callbackUrl=https%3A%2F%2Forbic.ai%2Fsubmit%2Ftools
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://orbic.ai/login?callbackUrl=https%3A%2F%2Forbic.ai%2Fsubmit%2Ftools
+    checked_at: 2026-07-24
+last_verified_at: 2026-07-24

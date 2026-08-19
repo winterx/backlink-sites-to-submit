@@ -1,0 +1,18 @@
+schema_version: 1
+name: What Launched Today
+domain: whatlaunched.today
+submission_url: https://whatlaunched.today/dashboard/submit
+category: product-launch
+pricing:
+  type: free
+submission:
+  complexity: auto
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: allowed
+status: active
+evidence:
+  - url: https://whatlaunched.today/dashboard/submit
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

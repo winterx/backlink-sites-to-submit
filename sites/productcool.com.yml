@@ -1,0 +1,18 @@
+schema_version: 1
+name: ProductCool
+domain: productcool.com
+submission_url: https://www.productcool.com/auth/signin?callbackUrl=/submit
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.productcool.com/auth/signin?callbackUrl=/submit
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

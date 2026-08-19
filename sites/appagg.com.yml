@@ -1,0 +1,18 @@
+schema_version: 1
+name: AppAgg
+domain: appagg.com
+submission_url: https://appagg.com/
+category: listing-directory
+pricing:
+  type: other
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://appagg.com/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

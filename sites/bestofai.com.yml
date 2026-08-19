@@ -1,0 +1,18 @@
+schema_version: 1
+name: BestOfAI
+domain: bestofai.com
+submission_url: https://bestofai.com/tool/add
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://bestofai.com/tool/add
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

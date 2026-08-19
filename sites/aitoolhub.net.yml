@@ -1,0 +1,20 @@
+schema_version: 1
+name: Ai Tool Hub
+domain: aitoolhub.net
+submission_url: https://www.gptdemo.net/gpt/add-tool?lg=en
+category: listing-directory
+pricing:
+  type: pay-once
+  amount: 19.9
+  currency: USD
+submission:
+  complexity: easy
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.gptdemo.net/gpt/add-tool?lg=en
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

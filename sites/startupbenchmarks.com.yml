@@ -1,0 +1,18 @@
+schema_version: 1
+name: Startup Benchmarks
+domain: startupbenchmarks.com
+submission_url: https://startupbenchmarks.com/
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: auto
+backlink:
+  requirement: required-badge
+  dofollow: unknown
+nsfw_policy: allowed
+status: active
+evidence:
+  - url: https://startupbenchmarks.com/
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

@@ -1,0 +1,18 @@
+schema_version: 1
+name: Capterra
+domain: capterra.com
+submission_url: https://www.capterra.com/
+category: product-review
+pricing:
+  type: other
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.capterra.com/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

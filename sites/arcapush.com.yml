@@ -1,0 +1,18 @@
+schema_version: 1
+name: Arcapush
+domain: arcapush.com
+submission_url: https://arcapush.com/auth/signin
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://arcapush.com/auth/signin
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

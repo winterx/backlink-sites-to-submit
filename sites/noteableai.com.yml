@@ -1,0 +1,18 @@
+schema_version: 1
+name: NoteableAI
+domain: noteableai.com
+submission_url: https://noteableai.com/
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: easy
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: allowed
+status: active
+evidence:
+  - url: https://noteableai.com/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

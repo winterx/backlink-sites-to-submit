@@ -1,0 +1,17 @@
+schema_version: 1
+name: SaasBaba
+domain: saasbaba.com
+submission_url: https://saasbaba.com/add-ai-tool/
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://saasbaba.com/add-ai-tool/
+    checked_at: 2026-07-06
+last_verified_at: 2026-07-06

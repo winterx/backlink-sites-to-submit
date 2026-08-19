@@ -1,0 +1,17 @@
+schema_version: 1
+name: AI Dude Info
+domain: aiwizard.ai
+submission_url: https://aidude.info/submit-your-tool
+pricing:
+  type: pay-once
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://aidude.info/submit-your-tool
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

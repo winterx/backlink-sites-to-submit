@@ -1,0 +1,17 @@
+schema_version: 1
+name: SaaS Surf
+domain: saassurf.com
+submission_url: https://saassurf.com/submit-a-product#submit
+pricing:
+  type: pay-once
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://saassurf.com/submit-a-product#submit
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

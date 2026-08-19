@@ -1,0 +1,18 @@
+schema_version: 1
+name: Saaspa.ge
+domain: saaspa.ge
+submission_url: https://www.saaspa.ge/submit
+category: product-launch
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.saaspa.ge/submit
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

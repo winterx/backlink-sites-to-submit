@@ -1,0 +1,18 @@
+schema_version: 1
+name: Brownbook
+domain: brownbook.net
+submission_url: https://www.brownbook.net/register
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.brownbook.net/register
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

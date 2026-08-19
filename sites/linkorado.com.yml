@@ -1,0 +1,18 @@
+schema_version: 1
+name: Linkorado
+domain: linkorado.com
+submission_url: https://linkorado.com/
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: auto
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: allowed
+status: active
+evidence:
+  - url: https://linkorado.com/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

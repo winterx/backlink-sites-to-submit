@@ -1,0 +1,17 @@
+schema_version: 1
+name: AllThingsDev.co
+domain: allthingsdev.co
+submission_url: https://www.allthingsdev.co/
+pricing:
+  type: other
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://www.allthingsdev.co/
+    checked_at: 2026-07-31
+last_verified_at: 2026-07-31

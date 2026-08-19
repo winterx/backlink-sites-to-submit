@@ -1,0 +1,20 @@
+schema_version: 1
+name: NavGood
+domain: navgood.com
+submission_url: https://www.navgood.com/en/user/profile/submit-ai-tools
+category: listing-directory
+pricing:
+  type: pay-once
+  amount: 25
+  currency: USD
+submission:
+  complexity: easy
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: allowed
+status: active
+evidence:
+  - url: https://www.navgood.com/en/user/profile/submit-ai-tools
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

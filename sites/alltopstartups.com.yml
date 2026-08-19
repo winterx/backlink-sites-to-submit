@@ -1,0 +1,17 @@
+schema_version: 1
+name: All Top Startups
+domain: alltopstartups.com
+submission_url: https://alltopstartups.com/submit-startup/
+pricing:
+  type: pay-once
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://alltopstartups.com/submit-startup/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

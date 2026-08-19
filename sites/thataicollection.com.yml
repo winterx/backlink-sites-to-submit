@@ -1,0 +1,18 @@
+schema_version: 1
+name: That AI Collection
+domain: thataicollection.com
+submission_url: https://www.thataicollection.com/submit/
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.thataicollection.com/submit/
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

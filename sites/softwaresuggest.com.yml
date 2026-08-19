@@ -1,0 +1,18 @@
+schema_version: 1
+name: Software Suggest
+domain: softwaresuggest.com
+submission_url: https://www.softwaresuggest.com/artificial-intelligence-software
+category: company-yellow-pages
+pricing:
+  type: other
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.softwaresuggest.com/artificial-intelligence-software
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

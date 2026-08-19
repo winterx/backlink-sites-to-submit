@@ -1,0 +1,17 @@
+schema_version: 1
+name: Appscriber
+domain: appscribed.com
+submission_url: https://appscribed.com/product-list/
+pricing:
+  type: pay-once
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://appscribed.com/product-list/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

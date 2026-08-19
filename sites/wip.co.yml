@@ -1,0 +1,18 @@
+schema_version: 1
+name: WIP
+domain: wip.co
+submission_url: https://wip.co/
+category: community
+pricing:
+  type: free
+submission:
+  complexity: auto
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://wip.co/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

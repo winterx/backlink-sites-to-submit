@@ -1,0 +1,18 @@
+schema_version: 1
+name: App Launcher
+domain: applauncher.io
+submission_url: https://www.applauncher.io/auth/register
+category: product-launch
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: false
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.applauncher.io/auth/register
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

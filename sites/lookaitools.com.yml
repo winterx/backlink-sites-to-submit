@@ -1,0 +1,17 @@
+schema_version: 1
+name: Look AI Tools
+domain: lookaitools.com
+submission_url: https://lookaitools.com/submission-service/
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://lookaitools.com/submission-service/
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

@@ -1,0 +1,18 @@
+schema_version: 1
+name: Go Publicly
+domain: go-publicly.com
+submission_url: https://go-publicly.com/create
+category: product-launch
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://go-publicly.com/create
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

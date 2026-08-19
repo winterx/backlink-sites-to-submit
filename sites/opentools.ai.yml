@@ -1,0 +1,20 @@
+schema_version: 1
+name: Open Tools
+domain: opentools.ai
+submission_url: https://opentools.ai/friends/launch-tool
+category: listing-directory
+pricing:
+  type: pay-once
+  amount: 199
+  currency: USD
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://opentools.ai/friends/launch-tool
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

@@ -1,0 +1,17 @@
+schema_version: 1
+name: BPLDIRECTORY.info
+domain: blpdirectory.info
+submission_url: https://blpdirectory.info/submit.php?LINK_TYPE=2
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://blpdirectory.info/submit.php?LINK_TYPE=2
+    checked_at: 2026-07-05
+last_verified_at: 2026-07-05

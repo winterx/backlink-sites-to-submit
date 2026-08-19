@@ -1,0 +1,17 @@
+schema_version: 1
+name: Under1000MRR.tools
+domain: under1000mrr.tools
+submission_url: https://under1000mrr.tools/login
+pricing:
+  type: pay-once
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://under1000mrr.tools/login
+    checked_at: 2026-07-31
+last_verified_at: 2026-07-31

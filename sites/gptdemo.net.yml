@@ -1,0 +1,18 @@
+schema_version: 1
+name: GptDemo.net
+domain: gptdemo.net
+submission_url: https://www.gptdemo.net/gpt/add-tool
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: auto
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: allowed
+status: active
+evidence:
+  - url: https://www.gptdemo.net/gpt/add-tool
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

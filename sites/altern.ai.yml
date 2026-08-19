@@ -1,0 +1,18 @@
+schema_version: 1
+name: Altern AI
+domain: altern.ai
+submission_url: https://altern.ai/dash/submit
+pricing:
+  type: pay-once
+  amount: 19
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://altern.ai/dash/submit
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

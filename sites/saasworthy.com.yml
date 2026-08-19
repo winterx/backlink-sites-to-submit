@@ -1,0 +1,19 @@
+schema_version: 1
+name: SaasWorthy
+domain: saasworthy.com
+submission_url: https://www.saasworthy.com/offerings
+category: company-yellow-pages
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+notes: This site does not support self-service delivery.
+evidence:
+  - url: https://www.saasworthy.com/offerings
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

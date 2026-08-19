@@ -1,0 +1,18 @@
+schema_version: 1
+name: OpenHunts
+domain: openhunts.com
+submission_url: https://openhunts.com/projects/submit
+category: product-launch
+pricing:
+  type: free
+submission:
+  complexity: auto
+backlink:
+  requirement: required-badge
+  dofollow: unknown
+nsfw_policy: allowed
+status: active
+evidence:
+  - url: https://openhunts.com/projects/submit
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

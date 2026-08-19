@@ -1,0 +1,20 @@
+schema_version: 1
+name: Post Make
+domain: postmake.io
+submission_url: https://postmake.io/submit
+category: company-yellow-pages
+pricing:
+  type: pay-once
+  amount: 79
+  currency: USD
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://postmake.io/submit
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

@@ -1,0 +1,21 @@
+schema_version: 1
+name: Beta List
+domain: betalist.com
+submission_url: https://betalist.com/submissions/new
+category: listing-directory
+pricing:
+  type: pay-once
+  amount: 39
+  currency: USD
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+notes: 他们负责抓取信息，提交信息不多，整体流程比较顺畅
+evidence:
+  - url: https://betalist.com/submissions/new
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

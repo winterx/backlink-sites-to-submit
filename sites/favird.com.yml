@@ -1,0 +1,17 @@
+schema_version: 1
+name: Favird
+domain: favird.com
+submission_url: https://favird.com/
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://favird.com/
+    checked_at: 2026-07-06
+last_verified_at: 2026-07-06

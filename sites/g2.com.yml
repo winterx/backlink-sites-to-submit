@@ -1,0 +1,18 @@
+schema_version: 1
+name: G2
+domain: g2.com
+submission_url: https://www.g2.com/products/new
+category: product-review
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.g2.com/products/new
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

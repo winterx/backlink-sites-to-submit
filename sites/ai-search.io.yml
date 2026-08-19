@@ -1,0 +1,18 @@
+schema_version: 1
+name: AI Search
+domain: ai-search.io
+submission_url: https://ai-search.io/submit
+category: listing-directory
+pricing:
+  type: pay-once
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://ai-search.io/submit
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

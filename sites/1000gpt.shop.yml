@@ -1,0 +1,17 @@
+schema_version: 1
+name: 1000GPT
+domain: 1000gpt.shop
+submission_url: https://buy.stripe.com/dR6eVi1lRgj9bsY4gg
+pricing:
+  type: pay-once
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://buy.stripe.com/dR6eVi1lRgj9bsY4gg
+    checked_at: 2026-07-24
+last_verified_at: 2026-07-24

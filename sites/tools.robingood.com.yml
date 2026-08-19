@@ -1,0 +1,17 @@
+schema_version: 1
+name: Robingood
+domain: tools.robingood.com
+submission_url: https://tools.robingood.com/
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://tools.robingood.com/
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

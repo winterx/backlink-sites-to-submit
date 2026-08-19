@@ -1,0 +1,18 @@
+schema_version: 1
+name: Unite List
+domain: unitelist.com
+submission_url: https://unitelist.com/
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: required-badge
+  dofollow: unknown
+nsfw_policy: allowed
+status: active
+evidence:
+  - url: https://unitelist.com/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

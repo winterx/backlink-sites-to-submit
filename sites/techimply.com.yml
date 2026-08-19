@@ -1,0 +1,17 @@
+schema_version: 1
+name: TechImply
+domain: techimply.com
+submission_url: https://www.techimply.com/
+pricing:
+  type: other
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.techimply.com/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

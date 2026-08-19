@@ -1,0 +1,17 @@
+schema_version: 1
+name: AI Depot
+domain: aidepot.co
+submission_url: https://aidepot.co/
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://aidepot.co/
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

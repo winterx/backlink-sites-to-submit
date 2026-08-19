@@ -1,0 +1,20 @@
+schema_version: 1
+name: TrustMRR
+domain: trustmrr.com
+submission_url: https://trustmrr.com/
+category: listing-directory
+pricing:
+  type: pay-once
+  amount: 19
+  currency: USD
+submission:
+  complexity: auto
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: allowed
+status: active
+evidence:
+  - url: https://trustmrr.com/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

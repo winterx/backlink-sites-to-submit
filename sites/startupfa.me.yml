@@ -1,0 +1,21 @@
+schema_version: 1
+name: Startup Fame
+domain: startupfa.me
+submission_url: https://startupfa.me/pricing
+category: product-launch
+tags:
+  - startup
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: required-backlink
+  dofollow: true
+nsfw_policy: unknown
+status: active
+notes: Badge needed or Subscription
+evidence:
+  - url: https://startupfa.me/pricing
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

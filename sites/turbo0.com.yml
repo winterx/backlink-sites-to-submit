@@ -1,0 +1,20 @@
+schema_version: 1
+name: Turbo0
+domain: turbo0.com
+submission_url: https://turbo0.com/
+category: listing-directory
+pricing:
+  type: pay-once
+  amount: 16.99
+  currency: USD
+submission:
+  complexity: easy
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: not-allowed
+status: active
+evidence:
+  - url: https://turbo0.com/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

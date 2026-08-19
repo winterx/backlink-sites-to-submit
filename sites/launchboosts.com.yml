@@ -1,0 +1,18 @@
+schema_version: 1
+name: LaunchBoosts
+domain: launchboosts.com
+submission_url: https://launchboosts.com/auth/signin
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: false
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://launchboosts.com/auth/signin
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

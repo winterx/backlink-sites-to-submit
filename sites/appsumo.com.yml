@@ -1,0 +1,18 @@
+schema_version: 1
+name: AppSumo
+domain: appsumo.com
+submission_url: https://appsumo.com/
+category: listing-directory
+pricing:
+  type: other
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://appsumo.com/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

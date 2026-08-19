@@ -1,0 +1,17 @@
+schema_version: 1
+name: Digi Pro Tools
+domain: digiprotoolz.com
+submission_url: https://digiprotoolz.com/contact-us/
+pricing:
+  type: other
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://digiprotoolz.com/contact-us/
+    checked_at: 2026-07-06
+last_verified_at: 2026-07-06

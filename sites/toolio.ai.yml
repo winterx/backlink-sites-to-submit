@@ -1,0 +1,17 @@
+schema_version: 1
+name: Toolio AI
+domain: toolio.ai
+submission_url: https://toolio.ai/submit-a-tool
+pricing:
+  type: pay-once
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://toolio.ai/submit-a-tool
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

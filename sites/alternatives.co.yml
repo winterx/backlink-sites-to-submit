@@ -1,0 +1,17 @@
+schema_version: 1
+name: Alternatives
+domain: alternatives.co
+submission_url: https://alternatives.co/software/ai-tools/
+pricing:
+  type: other
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://alternatives.co/software/ai-tools/
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

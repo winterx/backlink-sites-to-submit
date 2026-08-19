@@ -1,0 +1,15 @@
+schema_version: 1
+name: GPTs Hunter
+domain: gptshunter.com
+submission_url: https://www.gptshunter.com/submit-gpt
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://www.gptshunter.com/submit-gpt

@@ -1,0 +1,18 @@
+schema_version: 1
+name: Startups Lab
+domain: startupslab.site
+submission_url: https://startupslab.site/submit-product
+category: product-launch
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://startupslab.site/submit-product
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

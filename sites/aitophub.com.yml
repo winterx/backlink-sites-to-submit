@@ -1,0 +1,18 @@
+schema_version: 1
+name: AI TOP HUB
+domain: aitophub.com
+submission_url: https://aitophub.com/
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: easy
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://aitophub.com/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

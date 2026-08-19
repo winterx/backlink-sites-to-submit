@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: SubmitRank website
+    url: https://submitrank.com/
+    about: Use the SubmitRank product; this repository only manages the open dataset.

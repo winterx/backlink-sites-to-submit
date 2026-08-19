@@ -1,0 +1,18 @@
+schema_version: 1
+name: AISuperHub
+domain: aisuperhub.io
+submission_url: https://www.aisuperhub.io/ai-tools/submit/free
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: false
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.aisuperhub.io/ai-tools/submit/free
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

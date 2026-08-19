@@ -1,0 +1,18 @@
+schema_version: 1
+name: Alternative Me
+domain: alternative.me
+submission_url: https://alternative.me/how-to/submit-software/
+category: company-yellow-pages
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://alternative.me/how-to/submit-software/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

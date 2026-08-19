@@ -1,0 +1,18 @@
+schema_version: 1
+name: VibeCodingList
+domain: vibecodinglist.com
+submission_url: https://vibecodinglist.com/submit
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://vibecodinglist.com/submit
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

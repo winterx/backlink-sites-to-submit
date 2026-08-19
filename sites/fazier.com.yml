@@ -1,0 +1,18 @@
+schema_version: 1
+name: Fazier
+domain: fazier.com
+submission_url: https://fazier.com/
+category: product-launch
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://fazier.com/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

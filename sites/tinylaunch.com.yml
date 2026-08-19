@@ -1,0 +1,20 @@
+schema_version: 1
+name: TinyLaunch
+domain: tinylaunch.com
+submission_url: https://www.tinylaunch.com/dashboard/startups/new
+category: product-launch
+pricing:
+  type: pay-once
+  amount: 39
+  currency: USD
+submission:
+  complexity: easy
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.tinylaunch.com/dashboard/startups/new
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

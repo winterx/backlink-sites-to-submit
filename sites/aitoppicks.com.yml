@@ -1,0 +1,17 @@
+schema_version: 1
+name: AI Top Picks
+domain: aitoppicks.com
+submission_url: https://www.aitoppicks.com/
+pricing:
+  type: pay-once
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://www.aitoppicks.com/
+    checked_at: 2026-07-06
+last_verified_at: 2026-07-06

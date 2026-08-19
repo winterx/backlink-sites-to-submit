@@ -1,0 +1,20 @@
+schema_version: 1
+name: AI Tools FYI
+domain: aitools.fyi
+submission_url: https://aitools.fyi/submit
+category: listing-directory
+pricing:
+  type: pay-once
+  amount: 37
+  currency: USD
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://aitools.fyi/submit
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

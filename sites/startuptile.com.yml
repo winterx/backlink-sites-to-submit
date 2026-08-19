@@ -1,0 +1,19 @@
+schema_version: 1
+name: StartupTile
+domain: startuptile.com
+submission_url: https://startuptile.com/submit
+pricing:
+  type: pay-once
+  amount: 5
+  currency: USD
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://startuptile.com/submit
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

@@ -1,0 +1,17 @@
+schema_version: 1
+name: Site-Plus
+domain: sites-plus.com
+submission_url: https://www.sites-plus.com/submit?c=96&LINK_TYPE=9
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.sites-plus.com/submit?c=96&LINK_TYPE=9
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

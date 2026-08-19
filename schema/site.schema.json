@@ -1,0 +1,68 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/winterx/submitrank-open-directory/blob/main/schema/site.schema.json",
+  "title": "SubmitRank open directory site",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "name", "domain", "submission_url", "pricing", "submission", "backlink", "nsfw_policy", "status"],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "name": { "type": "string", "minLength": 1, "maxLength": 120 },
+    "domain": {
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 253,
+      "pattern": "^[a-z0-9](?:[a-z0-9.-]*[a-z0-9])?$"
+    },
+    "submission_url": { "type": "string", "format": "uri", "pattern": "^https?://", "maxLength": 2048 },
+    "category": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$", "maxLength": 64 },
+    "tags": {
+      "type": "array",
+      "maxItems": 20,
+      "uniqueItems": true,
+      "items": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$", "maxLength": 48 }
+    },
+    "pricing": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["type"],
+      "properties": {
+        "type": { "enum": ["free", "pay-once", "subscribe", "other"] },
+        "amount": { "type": "number", "minimum": 0 },
+        "currency": { "type": "string", "pattern": "^[A-Z]{3}$" }
+      }
+    },
+    "submission": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["complexity"],
+      "properties": { "complexity": { "enum": ["auto", "easy", "normal", "complete", "unknown"] } }
+    },
+    "backlink": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["requirement", "dofollow"],
+      "properties": {
+        "requirement": { "enum": ["unknown", "required-backlink", "not-required", "required-badge"] },
+        "dofollow": { "oneOf": [{ "type": "boolean" }, { "const": "unknown" }] }
+      }
+    },
+    "nsfw_policy": { "enum": ["allowed", "not-allowed", "unknown"] },
+    "status": { "enum": ["active", "to-verify", "submission-closed", "stale", "broken", "dead"] },
+    "notes": { "type": "string", "minLength": 1, "maxLength": 1000 },
+    "evidence": {
+      "type": "array",
+      "maxItems": 10,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["url"],
+        "properties": {
+          "url": { "type": "string", "format": "uri", "pattern": "^https?://", "maxLength": 2048 },
+          "checked_at": { "type": "string", "format": "date" }
+        }
+      }
+    },
+    "last_verified_at": { "type": "string", "format": "date" }
+  }
+}

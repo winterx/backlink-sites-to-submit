@@ -1,0 +1,44 @@
+name: Update a listing
+description: Correct or refresh an existing site's public information.
+title: "[Update site]: "
+labels: ["data:update"]
+body:
+  - type: input
+    id: domain
+    attributes:
+      label: Domain
+      placeholder: example.com
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: What is currently incorrect?
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: What should it say instead?
+    validations:
+      required: true
+  - type: input
+    id: evidence
+    attributes:
+      label: Public evidence URL
+    validations:
+      required: true
+  - type: dropdown
+    id: relationship
+    attributes:
+      label: Your relationship to the site
+      options: [No relationship, Owner or employee, Affiliate or paid representative, User or customer, Prefer to explain in the description]
+    validations:
+      required: true
+  - type: checkboxes
+    id: license
+    attributes:
+      label: Confirmation
+      options:
+        - label: I agree that accepted data will be available under CC BY 4.0.
+          required: true

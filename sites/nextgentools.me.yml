@@ -1,0 +1,17 @@
+schema_version: 1
+name: Next Gen Tools
+domain: nextgentools.me
+submission_url: https://nextgentools.me/submit-your-tool
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://nextgentools.me/submit-your-tool
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

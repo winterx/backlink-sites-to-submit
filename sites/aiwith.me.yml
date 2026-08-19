@@ -1,0 +1,20 @@
+schema_version: 1
+name: AI With Me
+domain: aiwith.me
+submission_url: https://aiwith.me/submit/
+category: product-launch
+pricing:
+  type: pay-once
+  amount: 19.9
+  currency: USD
+submission:
+  complexity: auto
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: allowed
+status: active
+evidence:
+  - url: https://aiwith.me/submit/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

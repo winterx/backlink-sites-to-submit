@@ -1,0 +1,19 @@
+schema_version: 1
+name: AlternativeTo
+domain: alternativeto.net
+submission_url: https://alternativeto.net/manage-item/
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: false
+nsfw_policy: not-allowed
+status: active
+notes: 现在不支持谷歌注册了
+evidence:
+  - url: https://alternativeto.net/manage-item/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

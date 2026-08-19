@@ -1,0 +1,18 @@
+schema_version: 1
+name: Indietool
+domain: indietool.io
+submission_url: https://www.indietool.io/user/login
+category: listing-directory
+pricing:
+  type: pay-once
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.indietool.io/user/login
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

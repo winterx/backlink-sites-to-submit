@@ -1,0 +1,17 @@
+schema_version: 1
+name: Dev Pages
+domain: devpages.io
+submission_url: https://www.devpages.io/submit-a-tool
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.devpages.io/submit-a-tool
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

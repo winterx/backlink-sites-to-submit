@@ -1,0 +1,17 @@
+schema_version: 1
+name: FunFun Tools
+domain: funfun.tools
+submission_url: https://www.funfun.tools/submit-tool
+pricing:
+  type: pay-once
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://www.funfun.tools/submit-tool
+    checked_at: 2026-07-06
+last_verified_at: 2026-07-06

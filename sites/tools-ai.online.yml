@@ -1,0 +1,18 @@
+schema_version: 1
+name: Tools AI Online
+domain: tools-ai.online
+submission_url: https://www.tools-ai.online/tool-submit
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: allowed
+status: active
+evidence:
+  - url: https://www.tools-ai.online/tool-submit
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

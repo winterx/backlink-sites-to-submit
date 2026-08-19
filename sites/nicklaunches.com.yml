@@ -1,0 +1,18 @@
+schema_version: 1
+name: Nick Launches
+domain: nicklaunches.com
+submission_url: https://nicklaunches.com/submit/
+category: product-launch
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: required-badge
+  dofollow: true
+nsfw_policy: not-allowed
+status: active
+evidence:
+  - url: https://nicklaunches.com/submit/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

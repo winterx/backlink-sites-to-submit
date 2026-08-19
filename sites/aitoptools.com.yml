@@ -1,0 +1,21 @@
+schema_version: 1
+name: AI top tools
+domain: aitoptools.com
+submission_url: https://aitoptools.com/
+category: listing-directory
+pricing:
+  type: pay-once
+  amount: 69
+  currency: USD
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: allowed
+status: active
+notes: 优惠码 GTM10
+evidence:
+  - url: https://aitoptools.com/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

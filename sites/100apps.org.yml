@@ -1,0 +1,17 @@
+schema_version: 1
+name: 100 AI Apps
+domain: 100apps.org
+submission_url: https://100apps.org/
+pricing:
+  type: pay-once
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://100apps.org/
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

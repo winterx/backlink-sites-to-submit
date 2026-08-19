@@ -1,0 +1,17 @@
+schema_version: 1
+name: BasedTools
+domain: basedtools.ai
+submission_url: https://buy.stripe.com/5kA2ax0aD7b93bG3cc
+pricing:
+  type: pay-once
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://buy.stripe.com/5kA2ax0aD7b93bG3cc
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

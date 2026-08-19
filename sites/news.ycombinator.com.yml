@@ -1,0 +1,18 @@
+schema_version: 1
+name: Hacker News
+domain: news.ycombinator.com
+submission_url: https://news.ycombinator.com/
+category: media
+pricing:
+  type: free
+submission:
+  complexity: easy
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: allowed
+status: active
+evidence:
+  - url: https://news.ycombinator.com/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

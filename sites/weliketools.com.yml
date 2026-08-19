@@ -1,0 +1,18 @@
+schema_version: 1
+name: We Like Tools
+domain: weliketools.com
+submission_url: https://weliketools.com/
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: easy
+backlink:
+  requirement: required-badge
+  dofollow: unknown
+nsfw_policy: allowed
+status: active
+evidence:
+  - url: https://weliketools.com/
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

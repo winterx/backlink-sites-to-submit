@@ -1,0 +1,20 @@
+schema_version: 1
+name: SideProjectors
+domain: sideprojectors.com
+submission_url: https://www.sideprojectors.com/submit/type
+category: product-launch
+pricing:
+  type: pay-once
+  amount: 20
+  currency: USD
+submission:
+  complexity: complete
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.sideprojectors.com/submit/type
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

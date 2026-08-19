@@ -1,0 +1,17 @@
+schema_version: 1
+name: Apps and Websites
+domain: landing.mycloudmedia.co.uk
+submission_url: https://landing.mycloudmedia.co.uk/apps-and-websites-submit-ai-or-saas-tool/new-submission.html
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://landing.mycloudmedia.co.uk/apps-and-websites-submit-ai-or-saas-tool/new-submission.html
+    checked_at: 2026-07-05
+last_verified_at: 2026-07-05

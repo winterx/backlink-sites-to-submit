@@ -1,0 +1,18 @@
+schema_version: 1
+name: TechPluto
+domain: techpluto.com
+submission_url: https://www.techpluto.com/submit-startup
+category: media
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.techpluto.com/submit-startup
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

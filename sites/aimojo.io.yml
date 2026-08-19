@@ -1,0 +1,18 @@
+schema_version: 1
+name: AI Mojo
+domain: aimojo.io
+submission_url: https://aimojo.io/submit/
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://aimojo.io/submit/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

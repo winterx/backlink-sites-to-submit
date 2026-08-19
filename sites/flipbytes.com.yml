@@ -1,0 +1,17 @@
+schema_version: 1
+name: Flip Bytes
+domain: flipbytes.com
+submission_url: https://www.flipbytes.com/
+pricing:
+  type: other
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://www.flipbytes.com/
+    checked_at: 2026-07-05
+last_verified_at: 2026-07-05

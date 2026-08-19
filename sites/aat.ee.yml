@@ -1,0 +1,19 @@
+schema_version: 1
+name: aat.ee
+domain: aat.ee
+submission_url: https://www.aat.ee/projects/submit
+pricing:
+  type: pay-once
+  amount: 3.99
+  currency: USD
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.aat.ee/projects/submit
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

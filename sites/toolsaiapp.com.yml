@@ -1,0 +1,19 @@
+schema_version: 1
+name: ToolsAI
+domain: toolsaiapp.com
+submission_url: https://toolsaiapp.com/
+category: listing-directory
+pricing:
+  type: other
+submission:
+  complexity: auto
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: not-allowed
+status: active
+notes: User can't login to submit
+evidence:
+  - url: https://toolsaiapp.com/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

@@ -1,0 +1,17 @@
+schema_version: 1
+name: AI Agents Directory
+domain: aiagentsdirectory.com
+submission_url: https://aiagentsdirectory.com/
+pricing:
+  type: other
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://aiagentsdirectory.com/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

@@ -1,0 +1,18 @@
+schema_version: 1
+name: AIInLink
+domain: aiinlink.com
+submission_url: https://aiinlink.com/login
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://aiinlink.com/login
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

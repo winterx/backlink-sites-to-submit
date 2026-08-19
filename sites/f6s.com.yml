@@ -1,0 +1,18 @@
+schema_version: 1
+name: F6S
+domain: f6s.com
+submission_url: https://www.f6s.com/
+category: company-yellow-pages
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.f6s.com/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

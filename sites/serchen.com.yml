@@ -1,0 +1,19 @@
+schema_version: 1
+name: Serchen
+domain: serchen.com
+submission_url: https://www.serchen.com/
+pricing:
+  type: pay-once
+  amount: 49.95
+  currency: USD
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://www.serchen.com/
+    checked_at: 2026-07-08
+last_verified_at: 2026-07-08

@@ -1,0 +1,17 @@
+schema_version: 1
+name: Unloc.tools
+domain: unloc.tools
+submission_url: https://www.unloc.tools/submit-tool
+pricing:
+  type: pay-once
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://www.unloc.tools/submit-tool
+    checked_at: 2026-07-24
+last_verified_at: 2026-07-24

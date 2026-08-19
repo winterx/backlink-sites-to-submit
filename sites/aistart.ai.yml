@@ -1,0 +1,18 @@
+schema_version: 1
+name: AIStart.ai
+domain: aistart.ai
+submission_url: https://aistart.ai/submit?plan=free
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: false
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://aistart.ai/submit?plan=free
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

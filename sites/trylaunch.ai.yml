@@ -1,0 +1,18 @@
+schema_version: 1
+name: TryLaunch
+domain: trylaunch.ai
+submission_url: https://trylaunch.ai/submit
+category: product-launch
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: not-required
+  dofollow: unknown
+nsfw_policy: allowed
+status: active
+evidence:
+  - url: https://trylaunch.ai/submit
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

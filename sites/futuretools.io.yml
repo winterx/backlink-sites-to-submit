@@ -1,0 +1,18 @@
+schema_version: 1
+name: Future Tools
+domain: futuretools.io
+submission_url: https://www.futuretools.io/submit-a-tool
+category: media
+pricing:
+  type: free
+submission:
+  complexity: easy
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.futuretools.io/submit-a-tool
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

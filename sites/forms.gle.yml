@@ -1,0 +1,17 @@
+schema_version: 1
+name: AI Infinity
+domain: forms.gle
+submission_url: https://forms.gle/Ze6pdWzmweCfKWnLA
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://forms.gle/Ze6pdWzmweCfKWnLA
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

@@ -1,0 +1,17 @@
+schema_version: 1
+name: FinancesOnline
+domain: financesonline.com
+submission_url: https://financesonline.com/add-product/
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: to-verify
+evidence:
+  - url: https://financesonline.com/add-product/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

@@ -1,0 +1,18 @@
+schema_version: 1
+name: ToolListed
+domain: toollisted.com
+submission_url: https://www.toollisted.com/auth/register
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.toollisted.com/auth/register
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

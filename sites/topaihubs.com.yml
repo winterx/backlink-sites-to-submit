@@ -1,0 +1,18 @@
+schema_version: 1
+name: TopAIHubs
+domain: topaihubs.com
+submission_url: https://topaihubs.com/
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: easy
+backlink:
+  requirement: required-backlink
+  dofollow: unknown
+nsfw_policy: allowed
+status: active
+evidence:
+  - url: https://topaihubs.com/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

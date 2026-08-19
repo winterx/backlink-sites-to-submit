@@ -1,0 +1,18 @@
+schema_version: 1
+name: Sitelike
+domain: sitelike.org
+submission_url: https://www.sitelike.org/add-site
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: to-verify
+evidence:
+  - url: https://www.sitelike.org/add-site
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

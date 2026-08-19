@@ -1,0 +1,17 @@
+schema_version: 1
+name: All GPTs
+domain: allgpts.co
+submission_url: https://allgpts.co/
+pricing:
+  type: other
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://allgpts.co/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

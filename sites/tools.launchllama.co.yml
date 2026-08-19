@@ -1,0 +1,18 @@
+schema_version: 1
+name: Launch Llama
+domain: tools.launchllama.co
+submission_url: https://tools.launchllama.co/submit
+category: product-launch
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: required-backlink
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://tools.launchllama.co/submit
+    checked_at: 2026-08-19
+last_verified_at: 2026-08-19

@@ -1,0 +1,18 @@
+schema_version: 1
+name: ProductBurst
+domain: productburst.com
+submission_url: https://productburst.com/pre-launch
+category: product-launch
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://productburst.com/pre-launch
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

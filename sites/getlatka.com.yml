@@ -1,0 +1,18 @@
+schema_version: 1
+name: Getlatka
+domain: getlatka.com
+submission_url: https://getlatka.com/saas-companies
+category: company-yellow-pages
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://getlatka.com/saas-companies
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

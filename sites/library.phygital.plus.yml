@@ -1,0 +1,17 @@
+schema_version: 1
+name: AI Library
+domain: library.phygital.plus
+submission_url: https://library.phygital.plus/tool-submission
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: to-verify
+evidence:
+  - url: https://library.phygital.plus/tool-submission
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

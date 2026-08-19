@@ -1,0 +1,17 @@
+schema_version: 1
+name: AI to Grow
+domain: aitogrow.com
+submission_url: https://aitogrow.com/#send-your-tool/?ref=aidirectories
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://aitogrow.com/#send-your-tool/?ref=aidirectories
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

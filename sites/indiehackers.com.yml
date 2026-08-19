@@ -1,0 +1,18 @@
+schema_version: 1
+name: Indie Hackers
+domain: indiehackers.com
+submission_url: https://www.indiehackers.com/
+category: media
+pricing:
+  type: other
+submission:
+  complexity: auto
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: allowed
+status: active
+evidence:
+  - url: https://www.indiehackers.com/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

@@ -1,0 +1,15 @@
+schema_version: 1
+name: BoostedLaunch
+domain: boostedlaunch.com
+submission_url: https://www.boostedlaunch.com/
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://www.boostedlaunch.com/

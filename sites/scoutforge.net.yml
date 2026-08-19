@@ -1,0 +1,18 @@
+schema_version: 1
+name: Scout Forge
+domain: scoutforge.net
+submission_url: https://scoutforge.net/sign-up
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://scoutforge.net/sign-up
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

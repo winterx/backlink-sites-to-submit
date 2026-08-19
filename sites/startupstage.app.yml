@@ -1,0 +1,17 @@
+schema_version: 1
+name: Startup Stage
+domain: startupstage.app
+submission_url: https://startupstage.app/startups/new
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://startupstage.app/startups/new
+    checked_at: 2026-07-06
+last_verified_at: 2026-07-06

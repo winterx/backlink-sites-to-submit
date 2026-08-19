@@ -1,0 +1,17 @@
+schema_version: 1
+name: ChatGate AI
+domain: chatgate.ai
+submission_url: https://chatgate.ai/submit-your-tool/
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://chatgate.ai/submit-your-tool/
+    checked_at: 2026-07-08
+last_verified_at: 2026-07-08

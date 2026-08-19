@@ -1,0 +1,72 @@
+name: Add a site
+description: Propose a new directory or submission destination.
+title: "[Add site]: "
+labels: ["data:addition"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for contributing. The site must accept submissions from third parties.
+  - type: input
+    id: name
+    attributes:
+      label: Site name
+    validations:
+      required: true
+  - type: input
+    id: domain
+    attributes:
+      label: Domain
+      placeholder: example.com
+    validations:
+      required: true
+  - type: input
+    id: submission_url
+    attributes:
+      label: Submission URL
+      placeholder: https://example.com/submit
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options: [Listing directory, Product launch, Company directory, Community, Media, Product review, Unsure]
+    validations:
+      required: true
+  - type: dropdown
+    id: pricing
+    attributes:
+      label: Pricing
+      options: [Free, Pay once, Subscription, Other or unclear]
+    validations:
+      required: true
+  - type: input
+    id: evidence
+    attributes:
+      label: Public evidence URL
+      description: Link to a submission, pricing, documentation, or policy page.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Include relevant pricing, backlink, moderation, or eligibility details.
+  - type: dropdown
+    id: relationship
+    attributes:
+      label: Your relationship to the site
+      options: [No relationship, Owner or employee, Affiliate or paid representative, User or customer, Prefer to explain below]
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Confirmation
+      options:
+        - label: The site accepts submissions from third parties.
+          required: true
+        - label: I have not included private or restricted third-party data.
+          required: true
+        - label: I agree that accepted data will be available under CC BY 4.0.
+          required: true

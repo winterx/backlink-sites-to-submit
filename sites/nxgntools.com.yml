@@ -1,0 +1,18 @@
+schema_version: 1
+name: NextGen Tools
+domain: nxgntools.com
+submission_url: https://www.nxgntools.com/~/my-tools
+category: product-launch
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.nxgntools.com/~/my-tools
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

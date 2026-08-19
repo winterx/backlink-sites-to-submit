@@ -1,0 +1,18 @@
+schema_version: 1
+name: AIGC 160
+domain: aigc160.com
+submission_url: https://aigc160.com/submit
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://aigc160.com/submit
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

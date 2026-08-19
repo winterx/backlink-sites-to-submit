@@ -1,0 +1,37 @@
+name: Report a closed or broken site
+description: Report a dead site, closed submissions, or a broken submission URL.
+title: "[Site status]: "
+labels: ["data:status"]
+body:
+  - type: input
+    id: domain
+    attributes:
+      label: Domain
+      placeholder: example.com
+    validations:
+      required: true
+  - type: dropdown
+    id: status
+    attributes:
+      label: Observed problem
+      options: [Submission URL is broken, Submissions are closed, Site is no longer operating, Information is stale or uncertain]
+    validations:
+      required: true
+  - type: textarea
+    id: observation
+    attributes:
+      label: What did you observe?
+    validations:
+      required: true
+  - type: input
+    id: evidence
+    attributes:
+      label: Evidence URL
+      description: Optional for a domain that no longer resolves.
+  - type: input
+    id: checked_at
+    attributes:
+      label: Date checked
+      placeholder: YYYY-MM-DD
+    validations:
+      required: true

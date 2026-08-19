@@ -1,0 +1,18 @@
+schema_version: 1
+name: What Is Ai Tools
+domain: whatisaitools.com
+submission_url: https://whatisaitools.com/submit
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: auto
+backlink:
+  requirement: required-backlink
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://whatisaitools.com/submit
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

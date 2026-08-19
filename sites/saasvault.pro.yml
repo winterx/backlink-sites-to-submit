@@ -1,0 +1,18 @@
+schema_version: 1
+name: SaaSVault
+domain: saasvault.pro
+submission_url: https://saasvault.pro/auth/login
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: false
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://saasvault.pro/auth/login
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

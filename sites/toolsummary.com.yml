@@ -1,0 +1,17 @@
+schema_version: 1
+name: Tool Summary
+domain: toolsummary.com
+submission_url: https://toolsummary.com/submit-ai-tool/
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://toolsummary.com/submit-ai-tool/
+    checked_at: 2026-07-05
+last_verified_at: 2026-07-05

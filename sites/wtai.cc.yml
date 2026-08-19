@@ -1,0 +1,18 @@
+schema_version: 1
+name: WTAI
+domain: wtai.cc
+submission_url: https://wtai.cc/
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: easy
+backlink:
+  requirement: required-backlink
+  dofollow: unknown
+nsfw_policy: not-allowed
+status: active
+evidence:
+  - url: https://wtai.cc/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

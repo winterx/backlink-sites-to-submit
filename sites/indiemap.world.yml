@@ -1,0 +1,18 @@
+schema_version: 1
+name: IndieMap
+domain: indiemap.world
+submission_url: https://www.indiemap.world/signin
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.indiemap.world/signin
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

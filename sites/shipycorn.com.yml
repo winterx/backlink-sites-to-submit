@@ -1,0 +1,18 @@
+schema_version: 1
+name: shipycorn
+domain: shipycorn.com
+submission_url: https://shipycorn.com/sign-in
+category: product-launch
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://shipycorn.com/sign-in
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

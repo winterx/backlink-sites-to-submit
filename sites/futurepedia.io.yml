@@ -1,0 +1,20 @@
+schema_version: 1
+name: Futurepedia
+domain: futurepedia.io
+submission_url: https://www.futurepedia.io/submit-tool
+category: media
+pricing:
+  type: pay-once
+  amount: 497
+  currency: USD
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.futurepedia.io/submit-tool
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

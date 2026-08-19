@@ -1,0 +1,17 @@
+schema_version: 1
+name: Startup Ranking
+domain: startupranking.com
+submission_url: https://www.startupranking.com/startup/create/url-validation
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://www.startupranking.com/startup/create/url-validation
+    checked_at: 2026-07-08
+last_verified_at: 2026-07-08

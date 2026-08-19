@@ -1,0 +1,21 @@
+schema_version: 1
+name: PeerPush
+domain: peerpush.com
+submission_url: https://peerpush.com/submit
+category: product-launch
+pricing:
+  type: free
+  amount: 35
+  currency: USD
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: to-verify
+notes: 支持AI自动抓取填入信息
+evidence:
+  - url: https://peerpush.com/submit
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

@@ -1,0 +1,18 @@
+schema_version: 1
+name: Intersys
+domain: intersys.ai
+submission_url: https://intersys.ai/submit
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+notes: Dead
+evidence:
+  - url: https://intersys.ai/submit
+    checked_at: 2026-07-02
+last_verified_at: 2026-07-02

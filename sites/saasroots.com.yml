@@ -1,0 +1,18 @@
+schema_version: 1
+name: SaaS Roots
+domain: saasroots.com
+submission_url: https://saasroots.com/submit
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://saasroots.com/submit
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

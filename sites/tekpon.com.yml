@@ -1,0 +1,20 @@
+schema_version: 1
+name: Tekpon
+domain: tekpon.com
+submission_url: https://tekpon.com/get-listed/
+category: company-yellow-pages
+pricing:
+  type: pay-once
+  amount: 249
+  currency: USD
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://tekpon.com/get-listed/
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

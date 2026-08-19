@@ -1,0 +1,17 @@
+schema_version: 1
+name: B2Saas
+domain: b2saas.com
+submission_url: https://b2saas.com/
+pricing:
+  type: other
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://b2saas.com/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

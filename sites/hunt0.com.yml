@@ -1,0 +1,18 @@
+schema_version: 1
+name: HUNT0
+domain: hunt0.com
+submission_url: https://hunt0.com/submit
+category: product-launch
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://hunt0.com/submit
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

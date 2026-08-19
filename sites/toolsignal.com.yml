@@ -1,0 +1,18 @@
+schema_version: 1
+name: Tool Signal
+domain: toolsignal.com
+submission_url: https://toolsignal.com/submit
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://toolsignal.com/submit
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

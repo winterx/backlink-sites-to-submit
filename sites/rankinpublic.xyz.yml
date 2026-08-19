@@ -1,0 +1,18 @@
+schema_version: 1
+name: RankInPublic
+domain: rankinpublic.xyz
+submission_url: https://rankinpublic.xyz/launch
+category: product-launch
+pricing:
+  type: free
+submission:
+  complexity: easy
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: allowed
+status: active
+evidence:
+  - url: https://rankinpublic.xyz/launch
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

@@ -1,0 +1,17 @@
+schema_version: 1
+name: One Hub AI
+domain: onehubai.com
+submission_url: https://www.onehubai.com/
+pricing:
+  type: pay-once
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://www.onehubai.com/
+    checked_at: 2026-07-08
+last_verified_at: 2026-07-08

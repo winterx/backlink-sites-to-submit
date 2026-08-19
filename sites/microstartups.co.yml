@@ -1,0 +1,17 @@
+schema_version: 1
+name: MicroStartups
+domain: microstartups.co
+submission_url: https://www.microstartups.co/list-your-startup
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://www.microstartups.co/list-your-startup
+    checked_at: 2026-07-24
+last_verified_at: 2026-07-24

@@ -1,0 +1,17 @@
+schema_version: 1
+name: Gpt Forge
+domain: gptforge.net
+submission_url: https://forms.gle/8h1SokDHfcPwkbaZ8
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://forms.gle/8h1SokDHfcPwkbaZ8
+    checked_at: 2026-07-06
+last_verified_at: 2026-07-06

@@ -1,0 +1,17 @@
+schema_version: 1
+name: Toolspedia
+domain: toolspedia.io
+submission_url: https://www.toolspedia.io/submit-tool/
+pricing:
+  type: pay-once
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.toolspedia.io/submit-tool/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

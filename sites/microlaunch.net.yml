@@ -1,0 +1,20 @@
+schema_version: 1
+name: Micro Launch
+domain: microlaunch.net
+submission_url: https://tally.so/r/mYaR6N
+category: product-launch
+pricing:
+  type: pay-once
+  amount: 39
+  currency: USD
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://tally.so/r/mYaR6N
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

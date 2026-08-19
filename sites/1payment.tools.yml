@@ -1,0 +1,17 @@
+schema_version: 1
+name: 1payment Tools
+domain: 1payment.tools
+submission_url: https://1payment.tools/login
+pricing:
+  type: pay-once
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://1payment.tools/login
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

@@ -1,0 +1,15 @@
+schema_version: 1
+name: Startup Stash
+domain: startupstash.com
+submission_url: https://startupstash.com/add-listing/
+pricing:
+  type: pay-once
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://startupstash.com/add-listing/

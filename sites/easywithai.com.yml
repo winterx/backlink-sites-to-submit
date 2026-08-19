@@ -1,0 +1,20 @@
+schema_version: 1
+name: Easy with AI
+domain: easywithai.com
+submission_url: https://easywithai.com/submit-tool/
+category: listing-directory
+pricing:
+  type: pay-once
+  amount: 125
+  currency: USD
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://easywithai.com/submit-tool/
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

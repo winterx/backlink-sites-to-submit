@@ -1,0 +1,17 @@
+schema_version: 1
+name: JOINLY
+domain: joinly.xyz
+submission_url: https://joinly.xyz/submit-startup
+pricing:
+  type: pay-once
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://joinly.xyz/submit-startup
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

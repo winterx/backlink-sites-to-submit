@@ -1,0 +1,18 @@
+schema_version: 1
+name: Vibe Apps
+domain: vibeapps.dev
+submission_url: https://vibeapps.dev/submit
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://vibeapps.dev/submit
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

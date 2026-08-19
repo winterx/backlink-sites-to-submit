@@ -1,0 +1,17 @@
+schema_version: 1
+name: StartupTracker
+domain: startuptracker.io
+submission_url: https://startuptracker.io/crowdsourcing/
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://startuptracker.io/crowdsourcing/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

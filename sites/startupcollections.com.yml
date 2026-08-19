@@ -1,0 +1,17 @@
+schema_version: 1
+name: Startup Collections
+domain: startupcollections.com
+submission_url: https://startupcollections.com/submit-product/
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://startupcollections.com/submit-product/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

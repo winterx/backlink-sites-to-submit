@@ -1,0 +1,18 @@
+schema_version: 1
+name: AITACH
+domain: aitach.com
+submission_url: https://aitach.com/account/submit-a-tool
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: false
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://aitach.com/account/submit-a-tool
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

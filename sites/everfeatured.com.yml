@@ -1,0 +1,18 @@
+schema_version: 1
+name: EverFeatured
+domain: everfeatured.com
+submission_url: https://www.everfeatured.com/signup
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: false
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.everfeatured.com/signup
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

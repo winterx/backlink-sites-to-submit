@@ -1,0 +1,20 @@
+schema_version: 1
+name: Tool AI
+domain: toolai.io
+submission_url: https://toolai.io/Login?ReturnUrl=%2Fen%2Fsubmit%3Fref%3Daidirectories
+category: listing-directory
+pricing:
+  type: pay-once
+  amount: 49
+  currency: USD
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://toolai.io/Login?ReturnUrl=%2Fen%2Fsubmit%3Fref%3Daidirectories
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

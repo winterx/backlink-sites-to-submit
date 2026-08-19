@@ -1,0 +1,18 @@
+schema_version: 1
+name: Launchpad
+domain: launchpad.ms
+submission_url: https://launchpad.ms/projects/submit
+category: product-launch
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://launchpad.ms/projects/submit
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

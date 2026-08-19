@@ -1,0 +1,17 @@
+schema_version: 1
+name: Startup Lister
+domain: startuplister.com
+submission_url: https://startuplister.com/
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://startuplister.com/
+    checked_at: 2026-07-05
+last_verified_at: 2026-07-05

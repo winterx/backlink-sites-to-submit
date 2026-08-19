@@ -1,0 +1,17 @@
+schema_version: 1
+name: AI Tooldirectory
+domain: tooldirectory.ai
+submission_url: https://tooldirectory.ai/submit-tool
+pricing:
+  type: pay-once
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://tooldirectory.ai/submit-tool
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

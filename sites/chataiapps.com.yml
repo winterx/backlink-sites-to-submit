@@ -1,0 +1,17 @@
+schema_version: 1
+name: Chat AI Apps
+domain: chataiapps.com
+submission_url: https://www.chataiapps.com/
+pricing:
+  type: other
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.chataiapps.com/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

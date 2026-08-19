@@ -1,0 +1,18 @@
+schema_version: 1
+name: JunkStartups
+domain: junkstartups.com
+submission_url: https://junkstartups.com/auth/signin?callbackUrl=%2Fdashboard%2Fstartups%2Fnew
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: true
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://junkstartups.com/auth/signin?callbackUrl=%2Fdashboard%2Fstartups%2Fnew
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

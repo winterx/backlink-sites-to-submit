@@ -1,0 +1,17 @@
+schema_version: 1
+name: AI tools for Marketing
+domain: airadar.getinference.com
+submission_url: https://airadar.getinference.com/
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://airadar.getinference.com/
+    checked_at: 2026-07-05
+last_verified_at: 2026-07-05

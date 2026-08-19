@@ -1,0 +1,15 @@
+schema_version: 1
+name: KitPloit
+domain: kitploit.com
+submission_url: https://www.kitploit.com/p/submit-tool.html
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: dead
+evidence:
+  - url: https://www.kitploit.com/p/submit-tool.html

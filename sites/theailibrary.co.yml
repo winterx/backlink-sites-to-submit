@@ -1,0 +1,18 @@
+schema_version: 1
+name: The AI Library
+domain: theailibrary.co
+submission_url: https://www.theailibrary.co/account/tools/new
+category: product-launch
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.theailibrary.co/account/tools/new
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

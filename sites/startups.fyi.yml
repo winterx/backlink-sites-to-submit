@@ -1,0 +1,17 @@
+schema_version: 1
+name: Startups fyi
+domain: startups.fyi
+submission_url: https://tally.so/r/3lOGLk
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://tally.so/r/3lOGLk
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

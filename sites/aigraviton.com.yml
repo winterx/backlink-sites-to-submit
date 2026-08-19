@@ -1,0 +1,18 @@
+schema_version: 1
+name: AI Graviton
+domain: aigraviton.com
+submission_url: https://aigraviton.com/
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: auto
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: not-allowed
+status: active
+evidence:
+  - url: https://aigraviton.com/
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

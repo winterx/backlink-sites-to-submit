@@ -1,0 +1,24 @@
+{
+  "total": 478,
+  "active": 404,
+  "by_status": {
+    "active": 404,
+    "dead": 68,
+    "to-verify": 6
+  },
+  "by_pricing_type": {
+    "free": 332,
+    "other": 60,
+    "pay-once": 85,
+    "subscribe": 1
+  },
+  "by_category": {
+    "community": 7,
+    "company-yellow-pages": 13,
+    "listing-directory": 189,
+    "media": 6,
+    "product-launch": 64,
+    "product-review": 2,
+    "uncategorized": 197
+  }
+}

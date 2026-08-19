@@ -1,0 +1,17 @@
+schema_version: 1
+name: Webwiki
+domain: webwiki.com
+submission_url: https://www.webwiki.com/info/add-website.html
+pricing:
+  type: free
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://www.webwiki.com/info/add-website.html
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14

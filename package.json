@@ -1,0 +1,20 @@
+{
+  "name": "submitrank-open-directory",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An open, community-maintained directory of places to submit and launch products.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "test": "node --test",
+    "validate": "node scripts/validate.mjs"
+  },
+  "engines": { "node": ">=20" },
+  "devDependencies": {
+    "ajv": "^8.20.0",
+    "ajv-formats": "^3.0.1",
+    "yaml": "^2.9.0"
+  },
+  "license": "SEE LICENSE IN LICENSE"
+}

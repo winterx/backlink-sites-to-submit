@@ -1,0 +1,18 @@
+schema_version: 1
+name: Product Wing
+domain: productwing.com
+submission_url: https://productwing.com/get-started
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: easy
+backlink:
+  requirement: required-badge
+  dofollow: unknown
+nsfw_policy: allowed
+status: active
+evidence:
+  - url: https://productwing.com/get-started
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

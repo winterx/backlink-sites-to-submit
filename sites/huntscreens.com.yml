@@ -1,0 +1,22 @@
+schema_version: 1
+name: Hunt Screens
+domain: huntscreens.com
+submission_url: https://huntscreens.com/submit
+category: product-launch
+tags:
+  - ai
+pricing:
+  type: pay-once
+  amount: 10
+  currency: USD
+submission:
+  complexity: auto
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://huntscreens.com/submit
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

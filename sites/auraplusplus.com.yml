@@ -1,0 +1,18 @@
+schema_version: 1
+name: Aura++
+domain: auraplusplus.com
+submission_url: https://auraplusplus.com/sign-up
+category: product-launch
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: false
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://auraplusplus.com/sign-up
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

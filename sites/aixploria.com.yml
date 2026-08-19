@@ -1,0 +1,23 @@
+schema_version: 1
+name: Aixploria
+domain: aixploria.com
+submission_url: https://www.aixploria.com/en/add-ai/
+category: listing-directory
+pricing:
+  type: pay-once
+  amount: 79
+  currency: EUR
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+notes: |-
+  提交流程：非常快，只需要提交简单信息即可，对方负责抓取
+  后续跟进：收钱很快，但是过了9天都没收录
+evidence:
+  - url: https://www.aixploria.com/en/add-ai/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

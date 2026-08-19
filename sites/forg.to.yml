@@ -1,0 +1,18 @@
+schema_version: 1
+name: Forg
+domain: forg.to
+submission_url: https://forg.to/login
+category: product-launch
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: false
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://forg.to/login
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

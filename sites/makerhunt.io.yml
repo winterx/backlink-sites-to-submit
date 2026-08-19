@@ -1,0 +1,18 @@
+schema_version: 1
+name: MakerHunt
+domain: makerhunt.io
+submission_url: https://makerhunt.io/auth/signin
+category: product-launch
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: unknown
+  dofollow: false
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://makerhunt.io/auth/signin
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

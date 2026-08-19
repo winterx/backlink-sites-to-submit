@@ -1,0 +1,18 @@
+schema_version: 1
+name: OSS Gallery
+domain: oss.gallery
+submission_url: https://oss.gallery/
+category: listing-directory
+pricing:
+  type: free
+submission:
+  complexity: auto
+backlink:
+  requirement: unknown
+  dofollow: false
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://oss.gallery/
+    checked_at: 2026-08-12
+last_verified_at: 2026-08-12

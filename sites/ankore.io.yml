@@ -1,0 +1,17 @@
+schema_version: 1
+name: Ankore
+domain: ankore.io
+submission_url: https://ankore.io/submit/
+pricing:
+  type: pay-once
+submission:
+  complexity: unknown
+backlink:
+  requirement: unknown
+  dofollow: unknown
+nsfw_policy: unknown
+status: active
+evidence:
+  - url: https://ankore.io/submit/
+    checked_at: 2026-08-14
+last_verified_at: 2026-08-14
