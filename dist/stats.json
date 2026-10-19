@@ -1,13 +1,13 @@
 {
-  "total": 478,
-  "active": 404,
+  "total": 479,
+  "active": 405,
   "by_status": {
-    "active": 404,
+    "active": 405,
     "dead": 68,
     "to-verify": 6
   },
   "by_pricing_type": {
-    "free": 332,
+    "free": 333,
     "other": 60,
     "pay-once": 85,
     "subscribe": 1
@@ -15,7 +15,7 @@
   "by_category": {
     "community": 7,
     "company-yellow-pages": 13,
-    "listing-directory": 189,
+    "listing-directory": 190,
     "media": 6,
     "product-launch": 64,
     "product-review": 2,
