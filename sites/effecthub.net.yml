@@ -1,0 +1,23 @@
+schema_version: 1
+name: EffectHub
+domain: effecthub.net
+submission_url: https://effecthub.net/submit
+category: listing-directory
+tags:
+  - ai
+pricing:
+  type: free
+submission:
+  complexity: normal
+backlink:
+  requirement: required-badge
+  dofollow: false
+nsfw_policy: unknown
+status: active
+notes: AI tools only. Free listing with the EffectHub badge on your home page, put up before review and checked daily once live; account required. One-time launch bundles from $39 skip the badge, review within 48 hours of payment, arranged by email. Listing links are rel="nofollow sponsored".
+evidence:
+  - url: https://effecthub.net/submit
+    checked_at: 2026-10-19
+  - url: https://effecthub.net/terms
+    checked_at: 2026-10-19
+last_verified_at: 2026-10-19

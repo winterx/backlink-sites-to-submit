@@ -11,7 +11,7 @@ The dataset is maintained in public through GitHub pull requests. [SubmitRank](h
 [简体中文说明](README.zh-CN.md)
 
 <!-- directory-stats:start -->
-**478 sites** · **404 active** · **332 free**
+**479 sites** · **405 active** · **333 free**
 <!-- directory-stats:end -->
 
 ## Use the data
